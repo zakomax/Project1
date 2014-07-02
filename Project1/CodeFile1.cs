@@ -5,6 +5,6 @@ class TestClass
     static void Main(string[] args)
     {
         Console.WriteLine("test");
-        Console.WriteLine("branch1");
+        Console.WriteLine("branch2");
     }
 }
